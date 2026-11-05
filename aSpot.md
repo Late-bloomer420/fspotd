@@ -1,0 +1,1 @@
+##Here we define a Spot and what it makes memorable##
